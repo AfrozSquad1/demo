@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [DemoProject]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="DemoProject Test(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="test.project.demo.tests.classes.SignInTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setupTest"/>
+          <include name="doLogoutTest"/>
+        </methods>
+      </class> <!-- test.project.demo.tests.classes.SignInTest -->
+    </classes>
+  </test> <!-- DemoProject Test(failed) -->
+</suite> <!-- Failed suite [DemoProject] -->

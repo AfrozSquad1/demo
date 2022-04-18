@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<log4j:configuration debug="true" xmlns:log4j="http://jakarta.apache.org/log4j/">
+	<appender name="console" class="org.apache.log4j.ConsoleAppender">
+		<layout class="org.apache.log4j.PatternLayout">
+			<param name="ConversionPattern" value="%d [%t %x - %c{36}.%M::%L]  - %m%n" />
+		</layout>
+	</appender>
+	<appender name="fileAppender" class="org.apache.log4j.RollingFileAppender">
+		<param name="File" value="./logs/ccsTestAutomation.log" />
+		<layout class="org.apache.log4j.PatternLayout">
+			<param name="ConversionPattern" value="%d [%t] %x - %c{36}.%M::%L]  - %m%n" />
+		</layout>
+	</appender>
+
+	<root>
+		<level value="INFO" />
+		<appender-ref ref="console" />
+		<appender-ref ref="fileAppender" />
+	</root>
+</log4j:configuration>

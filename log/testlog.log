@@ -1,0 +1,59 @@
+2022-04-17 15:54:09,937 - demoProject -INFO - Verifying SignIn Page Page Haeder !!!
+2022-04-17 15:54:09,957 - demoProject -INFO - Sign In  Page Title:Home — Conduit
+2022-04-17 15:54:09,969 - demoProject -INFO - Verifying SignIn Page  Header !!!
+2022-04-17 15:54:25,038 - demoProject -INFO - some exception occuredBy.xpath: //h1[text()='Sign in']
+2022-04-17 15:54:25,042 - demoProject -INFO - Verifying SignIn functionality and post loging Home page header !!!
+2022-04-17 15:54:40,093 - demoProject -INFO - some exception occuredBy.xpath: //a[@class='nav-link active' and @href='#/login']
+2022-04-17 15:56:46,044 - demoProject -INFO - Verifying SignIn Page Page Haeder !!!
+2022-04-17 15:56:46,057 - demoProject -INFO - Sign In  Page Title:Home — Conduit
+2022-04-17 15:56:46,066 - demoProject -INFO - Verifying SignIn Page  Header !!!
+2022-04-17 15:57:01,127 - demoProject -INFO - some exception occuredBy.xpath: //h1[text()='Sign in']
+2022-04-17 15:57:01,133 - demoProject -INFO - Verifying SignIn functionality and post loging Home page header !!!
+2022-04-17 15:57:16,156 - demoProject -INFO - some exception occuredBy.xpath: //a[@class='nav-link active' and @href='#/login']
+2022-04-17 16:02:33,255 - demoProject -INFO - Verifying SignIn functionality and post loging Home page header !!!
+2022-04-17 16:02:48,299 - demoProject -INFO - some exception occuredBy.xpath: //a[@class='nav-link active' and @href='#/login']
+2022-04-17 16:02:48,307 - demoProject -INFO - Verifying SignIn Page Page Haeder !!!
+2022-04-17 16:02:48,316 - demoProject -INFO - Sign In  Page Title:Home — Conduit
+2022-04-17 16:02:48,322 - demoProject -INFO - Verifying SignIn Page  Header !!!
+2022-04-17 16:03:03,390 - demoProject -INFO - some exception occuredBy.xpath: //h1[text()='Sign in']
+2022-04-17 16:03:33,465 - demoProject -INFO - Verifying SignIn functionality and post loging Home page header !!!
+2022-04-17 16:03:48,547 - demoProject -INFO - some exception occuredBy.xpath: //a[@class='nav-link active' and @href='#/login']
+2022-04-17 16:04:35,406 - demoProject -INFO - Verifying SignIn functionality and post loging Home page header !!!
+2022-04-17 16:05:28,974 - demoProject -INFO - some exception occuredBy.xpath: //a[@class='nav-link active' and @href='#/login']
+2022-04-17 16:06:58,366 - demoProject -INFO - Verifying SignIn functionality and post loging Home page header !!!
+2022-04-17 16:08:03,126 - demoProject -INFO - some exception occuredBy.xpath: //a[@class='nav-link active' and @href='#/login']
+2022-04-17 23:50:13,822 - demoProject -INFO - Verifying SignIn functionality and post loging Home page header !!!
+2022-04-17 23:50:14,289 - demoProject -INFO - HomePage Header: test.project.demo.page.classes.HomePage@4f20a5e0
+2022-04-17 23:50:14,297 - demoProject -INFO - Verifying SignIn Page Page Haeder !!!
+2022-04-17 23:50:14,304 - demoProject -INFO - Sign In  Page Title:Sign in — Conduit
+2022-04-17 23:50:14,308 - demoProject -INFO - Verifying SignIn Page  Header !!!
+2022-04-17 23:50:14,335 - demoProject -INFO - Sign In Page Header :Sign in
+2022-04-17 23:53:53,789 - demoProject -INFO - Verifying SignIn functionality and post loging Home page header !!!
+2022-04-17 23:53:54,158 - demoProject -INFO - HomePage Header: conduit
+2022-04-17 23:53:54,164 - demoProject -INFO - Verifying SignIn Page Page Haeder !!!
+2022-04-17 23:54:11,252 - demoProject -INFO - Verifying SignIn Page  Header !!!
+2022-04-17 23:54:26,288 - demoProject -INFO - some exception occuredBy.xpath: //h1[text()='Sign in']
+2022-04-17 23:55:07,052 - demoProject -INFO - Verifying SignIn functionality and post loging Home page header !!!
+2022-04-17 23:55:07,440 - demoProject -INFO - HomePage Header: conduit
+2022-04-17 23:55:07,447 - demoProject -INFO - Verifying SignIn Page Page Haeder !!!
+2022-04-17 23:55:24,376 - demoProject -INFO - Verifying SignIn Page  Header !!!
+2022-04-17 23:56:50,110 - demoProject -INFO - Verifying SignIn functionality and post loging Home page header !!!
+2022-04-17 23:56:50,481 - demoProject -INFO - HomePage Header: conduit
+2022-04-17 23:56:50,487 - demoProject -INFO - Verifying SignIn Page Page Haeder !!!
+2022-04-17 23:56:50,495 - demoProject -INFO - Sign In  Page Title:Sign in — Conduit
+2022-04-17 23:56:50,501 - demoProject -INFO - Verifying SignIn Page  Header !!!
+2022-04-17 23:56:50,527 - demoProject -INFO - Sign In Page Header :Sign in
+2022-04-17 23:58:09,996 - demoProject -INFO - Verifying SignIn functionality and post loging Home page header !!!
+2022-04-17 23:58:10,382 - demoProject -INFO - HomePage Header: conduit
+2022-04-17 23:58:10,388 - demoProject -INFO - Verifying SignIn Page Page Haeder !!!
+2022-04-17 23:58:10,396 - demoProject -INFO - Sign In  Page Title:Sign in — Conduit
+2022-04-17 23:58:10,399 - demoProject -INFO - Verifying SignIn Page  Header !!!
+2022-04-17 23:58:10,439 - demoProject -INFO - Sign In Page Header :Sign in
+2022-04-18 00:15:23,727 - demoProject -INFO - Verifying SignIn functionality and post loging Home page header !!!
+2022-04-18 00:15:24,137 - demoProject -INFO - HomePage Header: conduit
+2022-04-18 00:15:24,143 - demoProject -INFO - Verifying SignIn Page Page Haeder !!!
+2022-04-18 00:15:24,151 - demoProject -INFO - Sign In  Page Title:Sign in — Conduit
+2022-04-18 00:15:24,154 - demoProject -INFO - Verifying SignIn Page  Header !!!
+2022-04-18 00:15:24,183 - demoProject -INFO - Sign In Page Header :Sign in
+2022-04-18 00:15:24,187 - demoProject -INFO - Logging Out !!!
+2022-04-18 00:15:39,272 - demoProject -INFO - some exception occuredBy.xpath: //button[@class='btn btn-outline-danger']
